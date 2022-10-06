@@ -10,13 +10,12 @@
 
 # Índice 
 
-* [StringTypes](https://github.com/Heloisag/StringTypes/edit/main/README.md#stringtypes)
-* [Descrição do projeto](https://github.com/Heloisag/StringTypes/edit/main/README.md#descri%C3%A7%C3%A3o-do-projeto)
-* [IDE e Terminal](https://github.com/Heloisag/StringTypes/edit/main/README.md#ide-e-terminal)
+* [Descrição do projeto](#descrição-do-projeto)
+* [IDE e Terminal](#ide-e-terminal)
 * [Índice](#índice)
-* [Acesso ao Projeto](https://github.com/Heloisag/StringTypes/tree/main/src/comparacaoString)
-* [Tecnologias utilizadas](https://github.com/Heloisag/StringTypes/edit/main/README.md#%EF%B8%8F-t%C3%A9cnicas-e-tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](https://github.com/Heloisag/StringTypes/edit/main/README.md#autores)
+* [Acesso ao projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 
 ## Descrição do projeto 
 
