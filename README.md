@@ -12,7 +12,7 @@
 
 * [Descrição do projeto](#descrição-do-projeto)
 * [IDE e Terminal](#ide-e-terminal)
-* [Índice](#índice))
+* [Índice](#índice)
 * [Acesso ao projeto](https://github.com/Heloisag/StringTypes/blob/main/README.md#-acesso-ao-projeto)
 * [Abrir e rodar o projeto](https://github.com/Heloisag/StringTypes#%EF%B8%8F-abrir-e-rodar-o-projeto)
 * [Técnicas e tecnologias utilizadas](https://github.com/Heloisag/StringTypes#%EF%B8%8F-t%C3%A9cnicas-e-tecnologias-utilizadas)
